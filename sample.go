@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func kzrb(num int) string {
 	return fmt.Sprintf("kzrb meetup%d", num)
