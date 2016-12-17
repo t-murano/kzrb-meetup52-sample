@@ -1,0 +1,1 @@
+puts 'kzrb meetup52'
